@@ -1,7 +1,19 @@
-# hi!
+# my website
 
-it's me. the source code!
+:O
 
-yep, this is my website's source code.
+it's sneaky's website! yes he finally made one.
 
-what shall i write here?
+EPIC FEATURES!! SUCH AS!!!
+
+# Amazing badge collection
+
+I have too many
+
+# Epic 90's 1990's style content!
+
+It's EPIIICCC!
+
+# AND IT'LL BE MOVED TO A DOMAIN NEAR YOU!!!111
+
+its true :)
