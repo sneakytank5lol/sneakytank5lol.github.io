@@ -1,0 +1,40 @@
+<title>wii u menu | st5sneaky.github.io</title>
+
+<style>
+  body {
+    background-image: url("img.jpeg");
+    font-family: Helvetica, Sans-Serif;
+    color: white;
+    background-size: cover;
+  }
+
+  .valign {
+    vertical-align:middle;
+  }
+</style>
+
+<center>
+  <i><h1>for Wii U! :D</h1></i>
+  <p>Yes, you can <b>load</b> this on a Wii U.</p>
+
+  <h2>SMM1 Level Idea Generator</h2>
+  <p>i coded this myself in javascript xD</p>
+
+  <script>
+  function generate() {
+  const difficulty = ["Easy", "Intermediate", "Hard", "Very Hard", "Super Hard", "Expert", "Super Expert"];
+  const type = ["Troll Level", "Normal Level", "Inspired by the OG Mario Games Level", "Puzzle Level", "Gimmick Level"];
+
+  var item = difficulty[Math.floor(Math.random()*difficulty.length)] + " " + type[Math.floor(Math.random()*type.length)];
+  let text = item;
+  document.getElementById("smm1gen").innerHTML = text;
+  }
+  </script>
+
+  <p id="smm1gen">Generated result here</p>
+  <button onclick="generate()">Generate</button>
+  
+  <div>
+    <img class="valign" src="https://media.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" width="42px" height="42px"><a style='font-size:1.3em' class="valign" href="index.html"> back</a>
+  </div>
+</center>
